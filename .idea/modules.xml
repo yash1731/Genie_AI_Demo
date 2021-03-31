@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Genie_AI_Demo/MailTravelProject.iml" filepath="$PROJECT_DIR$/Genie_AI_Demo/MailTravelProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Genie_AI_Demo/Genie_AI.iml" filepath="$PROJECT_DIR$/Genie_AI_Demo/Genie_AI.iml" />
     </modules>
   </component>
 </project>
